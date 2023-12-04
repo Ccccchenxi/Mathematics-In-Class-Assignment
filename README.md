@@ -42,5 +42,5 @@ from statsmodels.multivariate.manova import MANOVA
 from sklearn import datasets  
 import warnings  
 ### Video Link:  
-https://www.dropbox.com/scl/fi/x9qhxly46vwz2h6l9kw2o/ChenxiCAO_Inclassassignment_video.mp4?rlkey=rfu3ixdf3qcinfgoplpmr6twk&dl=0  
+https://www.dropbox.com/scl/fi/5yo8a7ybtvpts7cacdu35/ChenxiCAO_InClass-Assignment_Video.mp4?rlkey=u02uv33tssn25b2jjj636am7j&dl=0    
 
