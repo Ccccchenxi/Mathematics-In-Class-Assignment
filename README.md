@@ -9,6 +9,8 @@ The overarching goal is to analyze provided datasets to study various statistica
 **Part1**: Involves tasks such as data quality check, data relationship/distribution analysis, bivariate correlations, linear and multiple regression analyses, and scenario-based analyses.  
 **Part2**: Encompasses more advanced tasks like identifying dataset types (linear/non-linear; single/multi-label), applying loss functions (L1, L2, Log, Categorical cross-entropy, Hinge loss), visual comparison of loss functions, assessing with metrics based on classification/regression, kernel transformation on non-linear datasets, creating overfitting scenarios in regression and classification, and applying regularization methods.  
 
+### Mathematics and Statistics Involved
+The project incorporates statistical concepts like data pre-processing, frequency distribution analysis, bivariate correlation, linear and multiple regression, hypothesis testing, loss function application, kernel transformation, and regularization techniques. These methods are crucial for understanding data relationships and making informed predictions.  
 
 ### Libraries needed:
 #### pandas, numpy, matplotlib, seaborn, statsmodels, TensorFlow, scikit-learn   
