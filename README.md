@@ -40,7 +40,7 @@ from statsmodels.graphics.gofplots import qqplot
 from statsmodels.stats.multicomp import pairwise_tukeyhsd  
 from statsmodels.multivariate.manova import MANOVA  
 from sklearn import datasets  
-
+import warnings  
 ### Video Link:  
 https://www.dropbox.com/scl/fi/x9qhxly46vwz2h6l9kw2o/ChenxiCAO_Inclassassignment_video.mp4?rlkey=rfu3ixdf3qcinfgoplpmr6twk&dl=0  
-import warnings  
+
