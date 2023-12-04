@@ -11,6 +11,11 @@ The overarching goal is to analyze provided datasets to study various statistica
 
 ### Mathematics and Statistics Involved
 The project incorporates statistical concepts like data pre-processing, frequency distribution analysis, bivariate correlation, linear and multiple regression, hypothesis testing, loss function application, kernel transformation, and regularization techniques. These methods are crucial for understanding data relationships and making informed predictions.  
+### Outcomes of Each Sub Task
+Each sub-task provides insights into different aspects of the datasets, from data quality to complex variable relationships and the impact of various statistical techniques.  
+### Challenges and Resolutions
+**Challenges**: Grasping intricate data relationships, correctly applying statistical methods, and avoiding overfitting.  
+**Resolution**: Methodical approach to data analysis, careful selection of statistical methods, and validation of assumptions.  
 
 ### Libraries needed:
 #### pandas, numpy, matplotlib, seaborn, statsmodels, TensorFlow, scikit-learn   
