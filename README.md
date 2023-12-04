@@ -1,8 +1,17 @@
 # Mathematics-In-Class-Assignment
-##
+## Project Description  
+### Overview  
+This in-class assignment, as part of the Advanced Mathematics and Statistics for Data Science and AI course, involves a series of structured tasks designed to apply mathematical and statistical concepts in a practical, data-driven context. The assignment is segmented into various sub-tasks, each aimed at enhancing the students' understanding and application of statistical methods in real-world scenarios.  
+
+### Task Details
+The overarching goal is to analyze provided datasets to study various statistical phenomena, particularly focusing on mobile usage and its potential correlation with visual search target acquisition speed. The assignment includes two main elements:
+
+**Part1**: Involves tasks such as data quality check, data relationship/distribution analysis, bivariate correlations, linear and multiple regression analyses, and scenario-based analyses.  
+**Part2**: Encompasses more advanced tasks like identifying dataset types (linear/non-linear; single/multi-label), applying loss functions (L1, L2, Log, Categorical cross-entropy, Hinge loss), visual comparison of loss functions, assessing with metrics based on classification/regression, kernel transformation on non-linear datasets, creating overfitting scenarios in regression and classification, and applying regularization methods.  
 
 
-## Libraries needed:  
+### Libraries needed:
+#### pandas, numpy, matplotlib, seaborn, statsmodels, TensorFlow, scikit-learn   
 import pandas as pd  
 import numpy as np  
 import matplotlib.pyplot as plt  
